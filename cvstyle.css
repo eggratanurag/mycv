@@ -1,0 +1,136 @@
+/********************************************** TAG SELECTORS ********************************************/
+body{
+  margin: 0;
+  text-align: center;
+}
+h1{
+  font-size: 60px;
+  margin-top: 0;
+  font-family: "Arial Black";
+  color: #6C567B;
+}
+h2{
+  font-family: 'Palette Mosaic', cursive;
+}
+p{
+  font-family: "Trebuchet MS";
+  color: #C06C84;
+}
+h2{
+  font-family: "Arial Black";
+  color: #6C567B;
+  font-size: 30px;
+}
+h3{
+  font-family: "Arial Black";
+  color: #6C567B;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #FEC8D8;
+  border-width: 5px;
+  width: 10%;
+}
+a:hover{
+  color: #0B032D;
+}
+a:visited{
+  color: #F8F5F1;
+}
+/********************************************** CLASS SELECTORS ******************************************/
+.introduction{
+  margin-top: 400px;
+}
+.introduction-area{
+  background-color: #FEC8D8;
+  padding-bottom: 20px;
+}
+.design1{
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 53%;
+}
+.design2{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 53%;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  line-height: 2;
+  text-align: left;
+}
+.profilepicture{
+  width: 425px;
+  height: 400px;
+  padding-top: 80px;
+}
+.web-developer{
+  font-family: "Segoe Print";
+  color: #957DAD;
+  margin-top: 0px;
+}
+.middle-container{
+  background-color: #FFDFD3;
+  padding-top: 30px;
+  padding-bottom: 10px;
+}
+.top-container{
+  background-color: #FEC8D8;
+}
+.bottom-container{
+  padding: 50px;
+  background-color: #957DAD;
+}
+.dev{
+  text-decoration: underline;
+}
+.computer-png{
+  width: 20%;
+  float: left;
+  margin-right: 60px;
+}
+.chillies-png{
+  width: 20%;
+  float: right;
+  margin-left: 60px;
+}
+.footer-link{
+  padding-top: 30px;
+  padding: 20px;
+  font-size: 20px;
+  font-family: "Trebuchet MS";
+  color: #6C567B;
+}
+.detail{
+  padding-top: 50px;
+  color: #F8F5F1;
+}
+.BUTTON_UVD {
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #F8F5F1;
+   font-family: Trebuchet MS;
+   font-size: 20px;
+   font-weight: 300;
+   padding: 14px;
+   background-color: #6C567B;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin-bottom: 5px;
+}
+.BUTTON_UVD:hover {
+   background: #957DAD;
+   border: solid #957DAD 1px;
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
